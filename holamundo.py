@@ -2,5 +2,5 @@ casa = "Cocina Baño-1 Baño-2 Sala Cuarto-principal Cuarto-Secundario-1 Cuarto-
 
 casa = casa.split()
 
-for cuarto in casa:
-    print(cuarto)
+for habitacion in casa:
+    print(habitacion)
